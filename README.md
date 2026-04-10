@@ -23,7 +23,7 @@ Grazie all'integrazione con driver di equalizzazione professionale, permette di 
 
 Non è necessario installare Python o scaricare il codice sorgente. Segui questi semplici passaggi:
 
-1.  **Scarica il Setup:** Vai nella sezione [Releases](https://github.com/TUO_UTENTE/SoundBooster/releases) e scarica `SonicBoost_Setup_v1.0.exe`.
+1.  **Scarica il Setup:** Vai nella sezione [Releases](https://github.com/andreailproplayer23-creator/SoundBooster/releases) e scarica `SonicBoost_Setup_v1.0.exe`.
 2.  **Avvia l'Installazione:** Esegui il file e segui le istruzioni a schermo (accetta la Licenza MIT).
 3.  **Configura i Driver:** * Una volta aperta l'app, clicca su **"Installa Driver Professionale"**.
     * Durante l'installazione, si aprirà il **Configurator**: seleziona (metti la spunta) i dispositivi che vuoi potenziare.
@@ -54,4 +54,4 @@ L'autore non si assume alcuna responsabilità per danni derivanti da un uso impr
 
 ---
 
-<p align="center"> Creato con ❤️ da [Il Tuo Nome/Username] </p>
+<p align="center"> Creato con ❤️ da Andy23 </p>
